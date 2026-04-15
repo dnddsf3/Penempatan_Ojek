@@ -1,6 +1,6 @@
 # Online Ride-Hailing Service Point Optimization
 
-A C++-based project that optimizes the placement of online ride-hailing (ojek online) service points using Brute Force and Greedy algorithms.
+A project that optimizes the placement of online ride-hailing (ojek online) service points using Brute Force and Greedy algorithms.
 
 ## Overview
 
@@ -43,7 +43,7 @@ Two different algorithms are implemented and compared:
 
 ## Tech Stack
 
-* **Language:** C++
+* **Language:** Javascript, HTML, CSS
 * **Concepts Applied:**
 
   * Algorithm design and analysis
